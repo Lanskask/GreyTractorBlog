@@ -1,7 +1,7 @@
 # WoodTract Blog 
 
 
-# About the theme 
+## About the theme 
 
 Original "onepage" theme by [Lukas Himse](http://himsel.me)  
 Thank you.  
