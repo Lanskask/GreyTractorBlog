@@ -40,7 +40,7 @@ small{
     font-size: 13px;
 }
 a{
-    text-decoration: none;
+    /* text-decoration: none; */
     color: #db4646;
     cursor: pointer;
 }

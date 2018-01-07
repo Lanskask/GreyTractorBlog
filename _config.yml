@@ -18,14 +18,14 @@ author: "WoodTractor"
 email: "grey.wooden.tractor@gmail.com"
 
 # google analytics tracking code, please change the value
-g_analytics: ""
+# g_analytics: ""
 
 # language settings
 # isolang:ru
 
-# url: "https://lanskask.github.io/"
-# baseurl: "/WoodTractBlog"
-baseurl: "https://lanskask.github.io/WoodTractBlog"
+url: "https://lanskask.github.io/"
+baseurl: "/WoodTractBlog"
+# baseurl: "https://lanskask.github.io/WoodTractBlog"
 # site.github.url: 
 # exclude files
 exclude:
