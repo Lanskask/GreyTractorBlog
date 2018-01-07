@@ -141,3 +141,9 @@ code, kbd{
     font-size: 15px;
     padding: 2px 4px;
 }
+
+/* My Code */
+
+.main-col {
+    word-break: break-all;
+}
