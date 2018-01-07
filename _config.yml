@@ -8,8 +8,9 @@ permalink: /:title
 
 title: "Lanskask"
 description: "Полка для хранения моих мыслишек и заметок."
-baseurl: ""
-url: # "http://himsel.me" # replace by your site's url
+url: "https://lanskask.github.io"
+baseurl: "/WoodTractBlog" # baseurl: "https://lanskask.github.io/WoodTractBlog"
+# site.github.url: 
 # twitter_username: your-name
 github_username:  Lanskask # (your name)
 accent: "#f7f7e6" # accent color for blog column
@@ -22,12 +23,13 @@ email: "grey.wooden.tractor@gmail.com"
 
 # language settings
 # isolang:ru
+paginate: 5
 
-url: "https://lanskask.github.io"
-baseurl: "/WoodTractBlog"
-# baseurl: "https://lanskask.github.io/WoodTractBlog"
-# site.github.url: 
 # exclude files
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+  # - i18n_filter
 exclude:
   - LICENSE
   - README.md
