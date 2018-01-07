@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Post to test" 
-date: 2017-01-29 04:45:38 +0000
-categories: jekyll update 
----
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet maxime et minima natus doloribus quae suscipit dolores, laboriosam aut possimus quas dolor rerum, modi, laborum, molestias tenetur dolorum assumenda dolorem.
